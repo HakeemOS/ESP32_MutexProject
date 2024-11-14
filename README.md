@@ -9,6 +9,6 @@ Project Designed to use mutex to ensure setup function argument (stack variable)
 - Creates Task One and pins to to single core, passing argument to task
 
 **Task One**
-- Stores argument in local variable
+- Stores passed argument in local variable
 - Returns Mutex and completes its function using passed value as key parameter (blink repitions) 
 
