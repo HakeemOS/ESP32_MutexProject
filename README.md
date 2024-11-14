@@ -1,4 +1,4 @@
-# _ESP32 Series _
+# _ESP32 Series_
 
 ## Mutex Project 
 
